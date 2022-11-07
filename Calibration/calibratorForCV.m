@@ -8,7 +8,7 @@ PARAM2 = 'Truncated Normal - Normal proposal for THETA';    % Note on the propos
 PARAM3 = 'Sim. data size: 130, Calib. data 1 with Tp';  % Note on the experimental data
 COMMENT1 = 'Experimental data size 24, with 4 validation chose RANDOMLY ';
 COMMENT2 = 'Predictions based on POSTERIOR MEAN';
-
+a
 
 
 % Load r_hat from the emulator previously built
